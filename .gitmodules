@@ -1,0 +1,3 @@
+[submodule "gant-discrete-panel"]
+	path = gant-discrete-panel
+	url = https://github.com/krystianpawlik/gant-discrete-panel.git
